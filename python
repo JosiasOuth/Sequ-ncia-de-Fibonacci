@@ -1,5 +1,5 @@
 # Sequncia-de-Fibonacci
-Exercício feito no python 
+#python 
 print('-=' * 12)
 print(' Sequência de FIBONACCI')
 print('-=' * 12)
